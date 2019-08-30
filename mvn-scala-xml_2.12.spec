@@ -4,7 +4,7 @@
 #
 Name     : mvn-scala-xml_2.12
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
 Source0  : https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar
 Source1  : https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom
